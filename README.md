@@ -1,2 +1,13 @@
-# css-projects
-A Repository for Beginner CSS Projects
+# A Collection of Projects of CSS
+
+| Project No | Project Name | Video Explanation | Live Demo |
+|------------|--------------|-------------------|-----------|
+|            |              |                   |           |
+|            |              |                   |           |
+|            |              |                   |           |
+|            |              |                   |           |
+|            |              |                   |           |
+|            |              |                   |           |
+|            |              |                   |           |
+|            |              |                   |           |
+|            |              |                   |           |
